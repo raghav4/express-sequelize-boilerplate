@@ -1,3 +1,4 @@
+require('dotenv').config();
 const debug = require('debug')('app:db');
 const Sequelize = require('sequelize');
 const config = require('config');

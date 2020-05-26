@@ -1,4 +1,3 @@
-require('dotenv').config();
 const debug = require('debug')('app:startup');
 const express = require('express');
 const db = require('./startup/db');
