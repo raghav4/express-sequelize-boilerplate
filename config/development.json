@@ -1,0 +1,11 @@
+{
+  "name": "Development Environment",
+  "db.config": {
+    "NAME": "",
+    "USER": "",
+    "PASSWORD": "",
+    "database": "",
+    "HOST": "",
+    "dialect": "mysql"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "db": {
+    "NAME": "",
+    "USER": "DB_USER",
+    "PASSWORD": "DB_PASSWORD",
+    "DATABASE": "DB_NAME",
+    "HOST": "DB_HOST",
+    "DIALECT": "DB_DIALECT"
+  }
+}

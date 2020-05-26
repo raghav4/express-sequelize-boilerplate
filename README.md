@@ -1,2 +1,1 @@
-# express-sequelize-boilerplate
-Expressjs boilterplate for Sequelize
+# Express Sequelize Boilterplate
