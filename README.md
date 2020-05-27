@@ -16,7 +16,7 @@ You will need the following things properly installed on your computer.
   - Add the required environment variables
 - Use the command `npm run dev` to run the project in the development environment
 
-> Make Sure your MySQL Daemon is running
+> Make Sure your MySQL Daemon is running, **Do not change the files in the config folder**.
 
 ## Contributing
 
