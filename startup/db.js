@@ -20,9 +20,9 @@ const connect = () => {
       logging: console.log,
       force: true,
     });
-    debug('Connected to the database.');
+    debug('Connected to the database...');
   } catch (ex) {
-    debug(ex);
+    debug('Connection to the DB cannot be established', ex);
   }
 };
 

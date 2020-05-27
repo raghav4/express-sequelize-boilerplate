@@ -1,4 +1,4 @@
-# Express Sequelize Boilterplate
+# Express Sequelize Boilerplate
 
 ## Prerequisites
 
@@ -17,3 +17,7 @@ You will need the following things properly installed on your computer.
 - Use the command `npm run dev` to run the project in the development environment
 
 > Make Sure your MySQL Daemon is running
+
+## Contributing
+
+- Follow the [Project Guidelines](./PROJECT_GUIDELINES.MD)
